@@ -109,34 +109,47 @@ Insight: It allows comparison of perceived savings across categories.
 
 ### 1.	Design Plan:
    
-	Clean dark teal theme
+-	Clean dark teal theme
 
-	Top banner with title and KPIs
+-	Top banner with title and KPIs
 
-	Slicers added for Rating Group
+-	Slicers added for Rating Group
 
 ### 2.	Visuals Used:
 
-	Column charts for average discount % by category, number of products per category, total reviews per category, and distribution of product ratings.
+-	Column charts for average discount % by category, number of products per category, total reviews per category, and distribution of product ratings.
 
-	Pie chart for top 5 product rating
+-	Pie chart for top 5 product rating
 
-	Doughnut chart for rating distribution
+-	Doughnut chart for rating distribution
 
 ### 4.	Interactivity:
 
-	Used slicers to allow dynamic filtering
+-	Used slicers to allow dynamic filtering
 
-	All charts updated automatically via pivot tables
+-	All charts updated automatically via pivot tables
 
 ### 5.	Structure:
 
-	Title at the top
+-	Title at the top
 
-	Charts were arranged in sections matching the task objectives
+-	Charts were arranged in sections matching the task objectives
 
-	Clear, uncluttered layout
+-	Clear, uncluttered layout
 
+## Project Summary and Insights
+
+-	Most Competitive Categories: Mobile accessories have the most listings and engagement.
+  
+-	Customer Behavior: Ratings mostly fall between 3.5 and 4.5, showing good but not exceptional satisfaction.
+  
+-	Strategic Opportunity: Promote highly rated but under-reviewed products for visibility.
+  
+-	Revenue Focus: Categories with high prices and high engagement showed the highest revenue potential.
+  
+-	Marketing Direction: Bundle or promote top 5 scoring products; be cautious with deep discount strategies.
+  
+This dashboard and analysis provide actionable insights for product positioning, inventory focus, and promotional planning.
 
 
 
