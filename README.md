@@ -1,6 +1,34 @@
 # DSA-DATA-ANALYST-PROJECT
 
  Case Study 1: Amazon Product Review Analysis - Using pivot tables, helper columns, and calculated columns to analyze the data and provide insights based on specific business questions.
+
+
+## 📚 Table of Contents
+
+- [DSA-DATA-ANALYST-PROJECT](#dsa-data-analyst-project)
+- [COMPREHENSIVE DOCUMENTATION OUTLINING EACH STAGE AND METHOD APPLIED DURING THE PROJECT WORKFLOW](#comprehensive-documentation-outlining-each-stage-and-method-applied-during-the-project-workflow)
+  - [Project Overview](#project-overview)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+  - [Research Questions, Approach, Insight and Decision Tip](#research-questions-approach-insight-and-decision-tip)
+    - [Task 1: Average Discount Percentage (%) by Category](#task-1-average-discount-percentage--by-category)
+    - [Task 2: Number of Products per Category](#task-2-number-of-products-per-category)
+    - [Task 3: Total Reviews per Category](#task-3-total-reviews-per-category)
+    - [Task 4: Products with Highest Average Ratings](#task-4-products-with-highest-average-ratings)
+    - [Task 5: Average Actual vs Discounted Price by Category](#task-5-average-actual-vs-discounted-price-by-category)
+    - [Task 6: Products with Highest Number of Reviews](#task-6-products-with-highest-number-of-reviews)
+    - [Task 7: Products with ≥50% Discount](#task-7-products-with-50-discount)
+    - [Task 8: Distribution of Ratings](#task-8-distribution-of-ratings)
+    - [Task 9: Total Potential Revenue by Category](#task-9-total-potential-revenue-by-category)
+    - [Task 10: Unique Products per Price Bucket](#task-10-unique-products-per-price-bucket)
+    - [Task 11: Relationship Between Rating and Discount](#task-11-relationship-between-rating-and-discount)
+    - [Task 12: Products with <1,000 Reviews](#task-12-products-with-1000-reviews)
+    - [Task 13: Categories with Highest Discounts](#task-13-categories-with-highest-discounts)
+    - [Task 14: Top 5 Products by Combined Rating and Review Score](#task-14-top-5-products-by-combined-rating-and-review-score)
+- [Dashboard Creation](#dashboard-creation)
+- [Project Summary](#project-summary)
+- [Recommendations](#recommendations)
+
  
 ## COMPREHENSIVE DOCUMENTATION OUTLINING EACH STAGE AND METHOD APPLIED DURING THE PROJECT WORKFLOW
 
