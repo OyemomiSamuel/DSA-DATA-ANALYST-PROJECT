@@ -19,6 +19,24 @@ The tools used include:
 
 •	Dashboard Layout Design
 
+### Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis (EDA) is a critical (usually first) step in the data analysis process. It involves systematically examining and summarizing the key characteristics of a dataset, both statistically and visually, to have a clear understanding of its structure, patterns, and potential anomalies.
+
+EDA helps analysts and stakeholders to uncover valuable insights, detect inconsistencies and/or missing values, identify relationships between variables, and form hypotheses that guide deeper analysis or model development.
+
+In this Amazon Product Review Analysis, EDA was used to:
+
+1. Understand product distribution across categories
+
+2. Identify highly reviewed and top - rated products
+
+3. Analyze price ranges and discount levels
+
+4. Detect missing or duplicated entries
+
+5. Observe relationships between ratings, reviews, and revenue
+
 ### Data Cleaning and Preparation
 
 Text cleaning and formatting was carried out at the initial stage of this project using excel functions like TRIM, PROPER, LEFT, RIGHT, SUBSTITUTE, FIND, LEN, IF, and so on.
