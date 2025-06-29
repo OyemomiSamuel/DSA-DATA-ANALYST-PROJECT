@@ -9,7 +9,7 @@ This case study analyzes Amazon products and review data to identify actionable 
 
 The tools used include:
 
-•	Microsoft Excel
+•	Microsoft Excel [Download here](https://www.microsoft.com)
 
 •	Pivot Tables
 
