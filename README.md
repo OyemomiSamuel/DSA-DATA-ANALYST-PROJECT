@@ -19,6 +19,10 @@ The tools used include:
 
 •	Dashboard Layout Design
 
+### Data Cleaning and Preparation
+
+Text cleaning and formatting was carried out at the initial stage of this project using excel functions like TRIM, PROPER, LEFT, RIGHT, SUBSTITUTE, FIND, LEN, IF, and so on.
+
 ### Task 1: Average Discount Percentage (%) by Category
 
 - A pivot table was created with Category as rows and Discount % as values (set to average).
