@@ -307,11 +307,11 @@ Decision Tip:
 
 ### 2.	Visuals Used:
 
--	Column charts for average discount % by category, number of products per category, total reviews per category, and distribution of product ratings.
+-	Column charts for average discount % by category, total reviews per category, and distribution of product ratings.
+
+-	Bar charts for number of products per category, and total potential revenue by category.
 
 -	Pie chart for top 5 product rating
-
--	Doughnut chart for rating distribution
 
 ### 4.	Interactivity:
 
@@ -326,7 +326,9 @@ Decision Tip:
 -	Charts were arranged in sections matching the task objectives
 
 -	Clear, uncluttered layout
-  
+
+![DSA Amazon case study dashboard](https://github.com/user-attachments/assets/f8dde138-79e8-41c6-8462-c1b0230779ec)
+
 
 ## Project Summary
 
